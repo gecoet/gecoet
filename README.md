@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m working as a consultant for the Azure Cloud and AI domain at Microsoft
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ways to enable customers building out secure landing zones based on the Cloud Adoption Framework for Azure using.
+- 📫 How to reach me: https://www.linkedin.com/in/gerhard-coetzee-70239519/
+- gecoetze@microsoft.com
 
 <!--
 **gecoet/gecoet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
